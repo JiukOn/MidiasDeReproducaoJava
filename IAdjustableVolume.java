@@ -1,0 +1,4 @@
+public interface IAdjustableVolume {
+    void increaseVolume(int value);
+    void decreaseVolume(int value);
+}
